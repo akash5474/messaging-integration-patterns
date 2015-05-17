@@ -1,0 +1,16 @@
+{
+  "name": "messaging-integration-patterns",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ecstatic": "^0.7.6",
+    "redis": "^0.12.1",
+    "ws": "^0.7.2"
+  }
+}
